@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(53,53,53);
+  color: white;
+}
+
+#buyer:hover {
+  background: black;
+}
+
+#seller:hover {
+  background: black;
+}
+
+#buyer {
+  background: rgba(10,88,202,0);
+  margin-right: 59px;
+}
+
+#seller {
+  background: rgba(10,88,202,0);
+}
+
